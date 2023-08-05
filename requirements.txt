@@ -14,6 +14,6 @@ psycopg2==2.8.6
 gunicorn==20.1.0
 python-decouple==3.4
 pytz==2020.5
-sqlparse==0.4.1
+sqlparse==0.4.4
 Unidecode==1.2.0
 whitenoise==5.2.0
